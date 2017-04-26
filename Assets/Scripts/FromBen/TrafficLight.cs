@@ -14,6 +14,7 @@ public class TrafficLight : MonoBehaviour
 	void Start ()
     {
 		//yes
+        // Yes
 	}
 	
 	// Update is called once per frame
